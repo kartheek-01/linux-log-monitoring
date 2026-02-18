@@ -6,7 +6,7 @@ This Bash script monitors `/var/log/auth.log` for:
 - 🔐 Privilege escalation using `sudo` or `su`
 - ⏰ Logins at unusual hours (00:00–05:59)
 
-Detected events are sent as **alerts to the `#alert` channel in your Discord server** using a webhook.
+Detected events are sent as **alerts to the `#alert` channel in my Discord server** using a webhook.
 
 ---
 
